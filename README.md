@@ -2,7 +2,7 @@
 
 ### When & Where
 - April 29th 2024
-- [EPFL, BS 150](https://plan.epfl.ch/?room=%3DBS%20150)https://plan.epfl.ch/?room=%3DBS%20150)
+- [EPFL, BS 150](https://plan.epfl.ch/?room=%3DBS%20150)
 
 
 
