@@ -1,7 +1,7 @@
 # Computational Imaging-based Spatial Biology Workshop
 
 ### When & Where
-- April 29th 2024
+- April 29th 2024, 9:00am - 17:30pm
 - [EPFL, BS 150](https://plan.epfl.ch/?room=%3DBS%20150)
 
 
