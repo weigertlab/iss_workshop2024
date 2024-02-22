@@ -6,6 +6,5 @@
 
 
 
-![poster_landscape_mw](https://github.com/weigertlab/iss_workshop2024/assets/11042162/a2301f0d-45cd-4448-922c-bdbc1b67a8f6)
 
-
+![poster_landscape_mw](https://github.com/weigertlab/iss_workshop2024/assets/11042162/247ed01e-6941-4634-85f2-a777148a2420)
